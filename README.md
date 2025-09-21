@@ -8,4 +8,6 @@ ini ya kak tampilan androidnya
 
 Tugas 2 Pertemuan 3
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
 <iframe src="https://player.vimeo.com/video/1120594005?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="400" height="300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="WhatsApp Video 2025-09-21 at 22.12.06_616338b8"></iframe>
+</div>
